@@ -1,7 +1,7 @@
-package com.example.examplemod.platform;
+package borknbeans.borksbetterdogs.platform;
 
-import com.example.examplemod.Constants;
-import com.example.examplemod.platform.services.IPlatformHelper;
+import borknbeans.borksbetterdogs.Constants;
+import borknbeans.borksbetterdogs.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 

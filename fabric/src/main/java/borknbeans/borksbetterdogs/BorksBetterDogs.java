@@ -1,8 +1,8 @@
-package com.example.examplemod;
+package borknbeans.borksbetterdogs;
 
 import net.fabricmc.api.ModInitializer;
 
-public class ExampleMod implements ModInitializer {
+public class BorksBetterDogs implements ModInitializer {
 
     @Override
     public void onInitialize() {

@@ -5,7 +5,7 @@
   "compatibilityLevel": "JAVA_25",
   "mixins": [],
   "client": [
-    "MixinMinecraft"
+    "borknbeans.borksbetterdogs.mixin.MixinMinecraft"
   ],
   "server": [],
   "injectors": {

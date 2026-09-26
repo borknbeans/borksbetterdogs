@@ -1,6 +1,6 @@
-package com.example.examplemod;
+package borknbeans.borksbetterdogs;
 
-import com.example.examplemod.platform.Services;
+import borknbeans.borksbetterdogs.platform.Services;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.world.item.Items;
 

@@ -1,4 +1,4 @@
-package com.example.examplemod.platform.services;
+package borknbeans.borksbetterdogs.platform.services;
 
 public interface IPlatformHelper {
 
